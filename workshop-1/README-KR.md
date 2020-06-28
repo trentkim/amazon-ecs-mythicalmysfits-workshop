@@ -80,7 +80,7 @@ AWS에 인프라 배포는 비용이 발생됩니다. AWS 이벤트에 참석하
     새 Cloud9 IDE의 하단 패널에 터미널 명령줄을 위한 터미널이 열려 있고 사용할 준비가 되었습니다. 터미널에서 다음 git 명령을 실행하여이 학습서를 완료하는데 필요한 코드를 복제합니다:
 
     ```
-    $ git clone https://github.com/aws-samples/amazon-ecs-mythicalmysfits-workshop.git
+    $ git clone https://github.com/trentkim/amazon-ecs-mythicalmysfits-workshop.git
     ```
 
     저장소를 복제하면 프로젝트 탐색기에 복제된 파일이 포함된 것을 볼 수 있습니다.
